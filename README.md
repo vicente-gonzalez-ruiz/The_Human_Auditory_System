@@ -1,1 +1,3 @@
-[Click me](https://vicente-gonzalez-ruiz.github.io/human_auditory_system/).
+# The Human Audory System
+
+[Click here](https://vicente-gonzalez-ruiz.github.io/human_auditory_system).
